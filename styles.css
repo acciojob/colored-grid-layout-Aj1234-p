@@ -22,7 +22,7 @@ body{
 }
 
 .box{
-  background-color: gray;
+  background-color: green;
   padding: 10px;
   font-size: 4vw;
   color: white;
@@ -31,29 +31,29 @@ body{
 .box-1{
   grid-column-start: 1;
   grid-column-end: 5;
+  background-color: green;
 }
 
 .box-2{
   grid-row-start: 2;
   grid-row-end: 6;
-}
-
-.box-3{
-   grid-column-start: 2;
-   grid-column-end: 3;
+  background-color: green;
 }
 
 .box-4{
   grid-column-start: 3;
   grid-column-end: 5;
+  background-color: green;
 }
 
 .box-5{
   grid-column-start: 2;
   grid-column-end: 4;
+  background-color: green;
 }
 
 .box-10{
   grid-column-start: 2;
   grid-column-end: 5;
+  background-color: green;
 }
